@@ -1,0 +1,36 @@
+{
+  "checked_at": "2026-09-18T07:50:19.476Z",
+  "contract": "Arca Delivery external_id catalog import",
+  "top_level_keys": [
+    "categories",
+    "stores",
+    "delivery_options"
+  ],
+  "locales": [
+    "ja",
+    "ko",
+    "en",
+    "zh-Hant"
+  ],
+  "counts": {
+    "categories": 0,
+    "stores": 4,
+    "products": 8,
+    "delivery_options": 0,
+    "store_icons": 4,
+    "image_urls": 16
+  },
+  "assertions": {
+    "exactly_two_products_per_store": true,
+    "prices_are_666_and_888_ice": true,
+    "stable_unique_external_ids": true,
+    "locale_category_alignment": true,
+    "required_store_and_product_fields": true,
+    "image_file_limits": true,
+    "github_urls_publicly_verified": true,
+    "public_download_hashes_match": true,
+    "original_catalog_unchanged": true
+  },
+  "asset_commit": "1c70a9adcb5b66d213f7e8615d90fd34ef31de24",
+  "ops_status": "File self-check passed; Ops preview is still required."
+}

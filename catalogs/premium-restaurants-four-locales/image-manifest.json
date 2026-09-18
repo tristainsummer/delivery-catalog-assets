@@ -1,0 +1,274 @@
+{
+  "repository": "https://github.com/tristainsummer/delivery-catalog-assets",
+  "asset_commit": "1c70a9adcb5b66d213f7e8615d90fd34ef31de24",
+  "published": true,
+  "records": [
+    {
+      "usage": "store",
+      "field": "icon_url",
+      "locale": "ja",
+      "store_external_id": "store-ja-ginza-gengetsu",
+      "source_file": "icons/jp/store-ja-ginza-gengetsu.png",
+      "github_url": "https://raw.githubusercontent.com/tristainsummer/delivery-catalog-assets/1c70a9adcb5b66d213f7e8615d90fd34ef31de24/icons/jp/store-ja-ginza-gengetsu.png",
+      "size_bytes": 2429452,
+      "width": 1254,
+      "height": 1254,
+      "sha256": "1d6880813eed298d5a324b6bdd7cf43cecc6c16a15cea60c5cd4bfdaf5a5ed66"
+    },
+    {
+      "usage": "store",
+      "locale": "ja",
+      "store_external_id": "store-ja-ginza-gengetsu",
+      "product_external_id": null,
+      "source_file": "images/premium/ja/ginza-gengetsu/cover.webp",
+      "github_url": "https://raw.githubusercontent.com/tristainsummer/delivery-catalog-assets/1c70a9adcb5b66d213f7e8615d90fd34ef31de24/images/premium/ja/ginza-gengetsu/cover.webp",
+      "size_bytes": 186732,
+      "sha256": "80a965a57cc6ceb4c5911b0389fb79f27d26edf8a3c2c22d6dd50aeefeaf16f8"
+    },
+    {
+      "usage": "product",
+      "locale": "ja",
+      "store_external_id": "store-ja-ginza-gengetsu",
+      "product_external_id": "product-ja-ginza-gengetsu-666",
+      "source_file": "images/premium/ja/ginza-gengetsu/666.webp",
+      "github_url": "https://raw.githubusercontent.com/tristainsummer/delivery-catalog-assets/1c70a9adcb5b66d213f7e8615d90fd34ef31de24/images/premium/ja/ginza-gengetsu/666.webp",
+      "size_bytes": 324946,
+      "sha256": "bb83c7e6226fb9dcd272149b3f0782432689a891c4680911f8f9db4ba6659d54"
+    },
+    {
+      "usage": "product",
+      "locale": "ja",
+      "store_external_id": "store-ja-ginza-gengetsu",
+      "product_external_id": "product-ja-ginza-gengetsu-888",
+      "source_file": "images/premium/ja/ginza-gengetsu/888.webp",
+      "github_url": "https://raw.githubusercontent.com/tristainsummer/delivery-catalog-assets/1c70a9adcb5b66d213f7e8615d90fd34ef31de24/images/premium/ja/ginza-gengetsu/888.webp",
+      "size_bytes": 417952,
+      "sha256": "c7447049daf6cf814af928b5a5abcabec610c9d71ac70683c1eef258b12d1c98"
+    },
+    {
+      "usage": "store",
+      "field": "icon_url",
+      "locale": "ko",
+      "store_external_id": "store-ko-gyeol",
+      "source_file": "icons/ko/store-ko-gyeol.png",
+      "github_url": "https://raw.githubusercontent.com/tristainsummer/delivery-catalog-assets/1c70a9adcb5b66d213f7e8615d90fd34ef31de24/icons/ko/store-ko-gyeol.png",
+      "size_bytes": 2429452,
+      "width": 1254,
+      "height": 1254,
+      "sha256": "1d6880813eed298d5a324b6bdd7cf43cecc6c16a15cea60c5cd4bfdaf5a5ed66"
+    },
+    {
+      "usage": "store",
+      "locale": "ko",
+      "store_external_id": "store-ko-gyeol",
+      "product_external_id": null,
+      "source_file": "images/premium/ko/gyeol/cover.webp",
+      "github_url": "https://raw.githubusercontent.com/tristainsummer/delivery-catalog-assets/1c70a9adcb5b66d213f7e8615d90fd34ef31de24/images/premium/ko/gyeol/cover.webp",
+      "size_bytes": 236730,
+      "sha256": "06c3371634c587d085e4aaa48801dd04c898b0a587fef495ba47394143497299"
+    },
+    {
+      "usage": "product",
+      "locale": "ko",
+      "store_external_id": "store-ko-gyeol",
+      "product_external_id": "product-ko-gyeol-666",
+      "source_file": "images/premium/ko/gyeol/666.webp",
+      "github_url": "https://raw.githubusercontent.com/tristainsummer/delivery-catalog-assets/1c70a9adcb5b66d213f7e8615d90fd34ef31de24/images/premium/ko/gyeol/666.webp",
+      "size_bytes": 438736,
+      "sha256": "6604fd3db309406eef16b7dfdd0ad83411f30c4fcbca85d4957c2ffffd98fe9b"
+    },
+    {
+      "usage": "product",
+      "locale": "ko",
+      "store_external_id": "store-ko-gyeol",
+      "product_external_id": "product-ko-gyeol-888",
+      "source_file": "images/premium/ko/gyeol/888.webp",
+      "github_url": "https://raw.githubusercontent.com/tristainsummer/delivery-catalog-assets/1c70a9adcb5b66d213f7e8615d90fd34ef31de24/images/premium/ko/gyeol/888.webp",
+      "size_bytes": 361638,
+      "sha256": "680536a2d9d5ae3c4a54eed103a75297a652676f6d0b00d2b7a29115de8a70cb"
+    },
+    {
+      "usage": "store",
+      "field": "icon_url",
+      "locale": "en",
+      "store_external_id": "store-en-aurelia",
+      "source_file": "icons/en/store-en-aurelia.png",
+      "github_url": "https://raw.githubusercontent.com/tristainsummer/delivery-catalog-assets/1c70a9adcb5b66d213f7e8615d90fd34ef31de24/icons/en/store-en-aurelia.png",
+      "size_bytes": 2429452,
+      "width": 1254,
+      "height": 1254,
+      "sha256": "1d6880813eed298d5a324b6bdd7cf43cecc6c16a15cea60c5cd4bfdaf5a5ed66"
+    },
+    {
+      "usage": "store",
+      "locale": "en",
+      "store_external_id": "store-en-aurelia",
+      "product_external_id": null,
+      "source_file": "images/premium/en/aurelia/cover.webp",
+      "github_url": "https://raw.githubusercontent.com/tristainsummer/delivery-catalog-assets/1c70a9adcb5b66d213f7e8615d90fd34ef31de24/images/premium/en/aurelia/cover.webp",
+      "size_bytes": 248414,
+      "sha256": "e571e737ff47910bd24a3b4635613492b15a53e1cd0744dff24bc2aedeedbec1"
+    },
+    {
+      "usage": "product",
+      "locale": "en",
+      "store_external_id": "store-en-aurelia",
+      "product_external_id": "product-en-aurelia-666",
+      "source_file": "images/premium/en/aurelia/666.webp",
+      "github_url": "https://raw.githubusercontent.com/tristainsummer/delivery-catalog-assets/1c70a9adcb5b66d213f7e8615d90fd34ef31de24/images/premium/en/aurelia/666.webp",
+      "size_bytes": 398254,
+      "sha256": "d66042272a399f9d0d87de44cd0eb09318a0473ec8396fd28e1f2fd4540c2765"
+    },
+    {
+      "usage": "product",
+      "locale": "en",
+      "store_external_id": "store-en-aurelia",
+      "product_external_id": "product-en-aurelia-888",
+      "source_file": "images/premium/en/aurelia/888.webp",
+      "github_url": "https://raw.githubusercontent.com/tristainsummer/delivery-catalog-assets/1c70a9adcb5b66d213f7e8615d90fd34ef31de24/images/premium/en/aurelia/888.webp",
+      "size_bytes": 307320,
+      "sha256": "82f91b823084e6877a3c788236247c3adba3921b3bc54408ebe3e333b5978fe7"
+    },
+    {
+      "usage": "store",
+      "field": "icon_url",
+      "locale": "zh-Hant",
+      "store_external_id": "store-zh-Hant-yu-xu",
+      "source_file": "icons/tc/store-zh-Hant-yu-xu.png",
+      "github_url": "https://raw.githubusercontent.com/tristainsummer/delivery-catalog-assets/1c70a9adcb5b66d213f7e8615d90fd34ef31de24/icons/tc/store-zh-Hant-yu-xu.png",
+      "size_bytes": 2429452,
+      "width": 1254,
+      "height": 1254,
+      "sha256": "1d6880813eed298d5a324b6bdd7cf43cecc6c16a15cea60c5cd4bfdaf5a5ed66"
+    },
+    {
+      "usage": "store",
+      "locale": "zh-Hant",
+      "store_external_id": "store-zh-Hant-yu-xu",
+      "product_external_id": null,
+      "source_file": "images/premium/zh-Hant/yu-xu/cover.webp",
+      "github_url": "https://raw.githubusercontent.com/tristainsummer/delivery-catalog-assets/1c70a9adcb5b66d213f7e8615d90fd34ef31de24/images/premium/zh-Hant/yu-xu/cover.webp",
+      "size_bytes": 256734,
+      "sha256": "a9d497efb6553621bbbe2e80eb1a8b60f6fd5efc59291a05f2c28cdf10afaf08"
+    },
+    {
+      "usage": "product",
+      "locale": "zh-Hant",
+      "store_external_id": "store-zh-Hant-yu-xu",
+      "product_external_id": "product-zh-Hant-yu-xu-666",
+      "source_file": "images/premium/zh-Hant/yu-xu/666.webp",
+      "github_url": "https://raw.githubusercontent.com/tristainsummer/delivery-catalog-assets/1c70a9adcb5b66d213f7e8615d90fd34ef31de24/images/premium/zh-Hant/yu-xu/666.webp",
+      "size_bytes": 358674,
+      "sha256": "58ed45f76e92129ea1ba453ca8b9c9c5c55e1ee9a268c3594f2f3e10ae891f69"
+    },
+    {
+      "usage": "product",
+      "locale": "zh-Hant",
+      "store_external_id": "store-zh-Hant-yu-xu",
+      "product_external_id": "product-zh-Hant-yu-xu-888",
+      "source_file": "images/premium/zh-Hant/yu-xu/888.webp",
+      "github_url": "https://raw.githubusercontent.com/tristainsummer/delivery-catalog-assets/1c70a9adcb5b66d213f7e8615d90fd34ef31de24/images/premium/zh-Hant/yu-xu/888.webp",
+      "size_bytes": 448038,
+      "sha256": "4e2677165058f8d447dc0b2287968cf060bcef275d83c1ac2ec731390fe5779d"
+    }
+  ],
+  "verified_at": "2026-09-18T07:50:19.476Z",
+  "public_download_checks": [
+    {
+      "source_file": "icons/jp/store-ja-ginza-gengetsu.png",
+      "http_status": 200,
+      "content_type": "image/png",
+      "sha256_verified": true
+    },
+    {
+      "source_file": "images/premium/ja/ginza-gengetsu/cover.webp",
+      "http_status": 200,
+      "content_type": "image/webp",
+      "sha256_verified": true
+    },
+    {
+      "source_file": "images/premium/ja/ginza-gengetsu/666.webp",
+      "http_status": 200,
+      "content_type": "image/webp",
+      "sha256_verified": true
+    },
+    {
+      "source_file": "images/premium/ja/ginza-gengetsu/888.webp",
+      "http_status": 200,
+      "content_type": "image/webp",
+      "sha256_verified": true
+    },
+    {
+      "source_file": "icons/ko/store-ko-gyeol.png",
+      "http_status": 200,
+      "content_type": "image/png",
+      "sha256_verified": true
+    },
+    {
+      "source_file": "images/premium/ko/gyeol/cover.webp",
+      "http_status": 200,
+      "content_type": "image/webp",
+      "sha256_verified": true
+    },
+    {
+      "source_file": "images/premium/ko/gyeol/666.webp",
+      "http_status": 200,
+      "content_type": "image/webp",
+      "sha256_verified": true
+    },
+    {
+      "source_file": "images/premium/ko/gyeol/888.webp",
+      "http_status": 200,
+      "content_type": "image/webp",
+      "sha256_verified": true
+    },
+    {
+      "source_file": "icons/en/store-en-aurelia.png",
+      "http_status": 200,
+      "content_type": "image/png",
+      "sha256_verified": true
+    },
+    {
+      "source_file": "images/premium/en/aurelia/cover.webp",
+      "http_status": 200,
+      "content_type": "image/webp",
+      "sha256_verified": true
+    },
+    {
+      "source_file": "images/premium/en/aurelia/666.webp",
+      "http_status": 200,
+      "content_type": "image/webp",
+      "sha256_verified": true
+    },
+    {
+      "source_file": "images/premium/en/aurelia/888.webp",
+      "http_status": 200,
+      "content_type": "image/webp",
+      "sha256_verified": true
+    },
+    {
+      "source_file": "icons/tc/store-zh-Hant-yu-xu.png",
+      "http_status": 200,
+      "content_type": "image/png",
+      "sha256_verified": true
+    },
+    {
+      "source_file": "images/premium/zh-Hant/yu-xu/cover.webp",
+      "http_status": 200,
+      "content_type": "image/webp",
+      "sha256_verified": true
+    },
+    {
+      "source_file": "images/premium/zh-Hant/yu-xu/666.webp",
+      "http_status": 200,
+      "content_type": "image/webp",
+      "sha256_verified": true
+    },
+    {
+      "source_file": "images/premium/zh-Hant/yu-xu/888.webp",
+      "http_status": 200,
+      "content_type": "image/webp",
+      "sha256_verified": true
+    }
+  ]
+}

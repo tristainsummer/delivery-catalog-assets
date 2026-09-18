@@ -1,0 +1,174 @@
+{
+  "categories": [],
+  "stores": [
+    {
+      "external_id": "store-ja-ginza-gengetsu",
+      "locale": "ja",
+      "name": "銀座 玄月 · Ginza Gengetsu",
+      "category_external_id": "category-ja-sushi",
+      "description": "東京・銀座の季節会席。赤酢の鮨、旬魚、備長炭の焼物を、桐箱の段取りに合わせて一席ずつお届けします。毎夜八席限定。",
+      "image_url": "https://raw.githubusercontent.com/tristainsummer/delivery-catalog-assets/1c70a9adcb5b66d213f7e8615d90fd34ef31de24/images/premium/ja/ginza-gengetsu/cover.webp",
+      "icon_url": "https://raw.githubusercontent.com/tristainsummer/delivery-catalog-assets/1c70a9adcb5b66d213f7e8615d90fd34ef31de24/icons/jp/store-ja-ginza-gengetsu.png",
+      "display_badge_text": "銀座割烹 · 一夜八席",
+      "display_priority": 10000,
+      "status": 1,
+      "products": [
+        {
+          "external_id": "product-ja-ginza-gengetsu-666",
+          "experience_type": "default",
+          "menu_visible": true,
+          "menu_section_name": "季節の会席",
+          "name": "月白 · Signature",
+          "description": "本鮪上握り、金目鯛ちらし、炙りサーモン、鰻玉御飯の四品。桐木の重箱で順番どおりにお楽しみいただけます。",
+          "image_url": "https://raw.githubusercontent.com/tristainsummer/delivery-catalog-assets/1c70a9adcb5b66d213f7e8615d90fd34ef31de24/images/premium/ja/ginza-gengetsu/666.webp",
+          "base_price_ice": 666,
+          "option_groups": [],
+          "display_badge_text": "四品会席",
+          "display_priority": 666,
+          "status": 1
+        },
+        {
+          "external_id": "product-ja-ginza-gengetsu-888",
+          "experience_type": "default",
+          "menu_visible": true,
+          "menu_section_name": "季節の会席",
+          "name": "玄月 · Private",
+          "description": "月白の四品に、A5和牛炭火焼と苺大福・抹茶を添えた六品のおまかせ。銀座式の開封カード付き。",
+          "image_url": "https://raw.githubusercontent.com/tristainsummer/delivery-catalog-assets/1c70a9adcb5b66d213f7e8615d90fd34ef31de24/images/premium/ja/ginza-gengetsu/888.webp",
+          "base_price_ice": 888,
+          "option_groups": [],
+          "display_badge_text": "六品おまかせ",
+          "display_priority": 888,
+          "status": 1
+        }
+      ]
+    },
+    {
+      "external_id": "store-ko-gyeol",
+      "locale": "ko",
+      "name": "결 GYEOL",
+      "category_external_id": "category-ko-korean-bbq",
+      "description": "서울 청담의 현대 한식 다이닝. 1++ 한우, 제철 해산물과 발효의 결을 한지 상자에 담아 코스 순서대로 전합니다. 하루 여덟 상만 준비합니다.",
+      "image_url": "https://raw.githubusercontent.com/tristainsummer/delivery-catalog-assets/1c70a9adcb5b66d213f7e8615d90fd34ef31de24/images/premium/ko/gyeol/cover.webp",
+      "icon_url": "https://raw.githubusercontent.com/tristainsummer/delivery-catalog-assets/1c70a9adcb5b66d213f7e8615d90fd34ef31de24/icons/ko/store-ko-gyeol.png",
+      "display_badge_text": "한식 다이닝 · 하루 8상",
+      "display_priority": 9999,
+      "status": 1,
+      "products": [
+        {
+          "external_id": "product-ko-gyeol-666",
+          "experience_type": "default",
+          "menu_visible": true,
+          "menu_section_name": "오늘의 한식 컬렉션",
+          "name": "GYEOL Signature",
+          "description": "1++ 한우 갈비, 궁중 불고기, 제철 회와 성게, 능이 크림 국수로 구성한 네 가지 한식 컬렉션입니다.",
+          "image_url": "https://raw.githubusercontent.com/tristainsummer/delivery-catalog-assets/1c70a9adcb5b66d213f7e8615d90fd34ef31de24/images/premium/ko/gyeol/666.webp",
+          "base_price_ice": 666,
+          "option_groups": [],
+          "display_badge_text": "네 가지 컬렉션",
+          "display_priority": 666,
+          "status": 1
+        },
+        {
+          "external_id": "product-ko-gyeol-888",
+          "experience_type": "default",
+          "menu_visible": true,
+          "menu_section_name": "오늘의 한식 컬렉션",
+          "name": "GYEOL Private",
+          "description": "Signature 네 가지에 한우 채끝 숯불구이와 인절미 눈꽃빙수를 더한 여섯 가지 셰프 셀렉션. 전용 놋쇠 봉인과 보자기 포장을 포함합니다.",
+          "image_url": "https://raw.githubusercontent.com/tristainsummer/delivery-catalog-assets/1c70a9adcb5b66d213f7e8615d90fd34ef31de24/images/premium/ko/gyeol/888.webp",
+          "base_price_ice": 888,
+          "option_groups": [],
+          "display_badge_text": "여섯 가지 셀렉션",
+          "display_priority": 888,
+          "status": 1
+        }
+      ]
+    },
+    {
+      "external_id": "store-en-aurelia",
+      "locale": "en",
+      "name": "AURELIA",
+      "category_external_id": "category-en-bbq",
+      "description": "A New York supper collection from Nolita: dry-aged cuts, snow crab and truffle, paced like a private tasting menu and delivered in a brushed-silver case. Eight suppers nightly.",
+      "image_url": "https://raw.githubusercontent.com/tristainsummer/delivery-catalog-assets/1c70a9adcb5b66d213f7e8615d90fd34ef31de24/images/premium/en/aurelia/cover.webp",
+      "icon_url": "https://raw.githubusercontent.com/tristainsummer/delivery-catalog-assets/1c70a9adcb5b66d213f7e8615d90fd34ef31de24/icons/en/store-en-aurelia.png",
+      "display_badge_text": "NEW YORK · 8 SUPPERS",
+      "display_priority": 9998,
+      "status": 1,
+      "products": [
+        {
+          "external_id": "product-en-aurelia-666",
+          "experience_type": "default",
+          "menu_visible": true,
+          "menu_section_name": "Supper Collections",
+          "name": "Signature Supper",
+          "description": "A four-course collection of 28-day dry-aged brisket, heritage pork ribs, snow crab bisque and truffle steak greens.",
+          "image_url": "https://raw.githubusercontent.com/tristainsummer/delivery-catalog-assets/1c70a9adcb5b66d213f7e8615d90fd34ef31de24/images/premium/en/aurelia/666.webp",
+          "base_price_ice": 666,
+          "option_groups": [],
+          "display_badge_text": "FOUR COURSES",
+          "display_priority": 666,
+          "status": 1
+        },
+        {
+          "external_id": "product-en-aurelia-888",
+          "experience_type": "default",
+          "menu_visible": true,
+          "menu_section_name": "Supper Collections",
+          "name": "Private Selection",
+          "description": "The full Signature Supper with bluefin chirashi and Madagascar vanilla crème brûlée, finished with a private note and white-glove handoff.",
+          "image_url": "https://raw.githubusercontent.com/tristainsummer/delivery-catalog-assets/1c70a9adcb5b66d213f7e8615d90fd34ef31de24/images/premium/en/aurelia/888.webp",
+          "base_price_ice": 888,
+          "option_groups": [],
+          "display_badge_text": "SIX COURSES",
+          "display_priority": 888,
+          "status": 1
+        }
+      ]
+    },
+    {
+      "external_id": "store-zh-Hant-yu-xu",
+      "locale": "zh-Hant",
+      "name": "嶼序 YU XU",
+      "category_external_id": "category-zh-Hant-bento-rice",
+      "description": "臺北大安的當代臺菜。以台灣牛、龍眼木炭、手工十八摺與島嶼旬味排成一席，分層保溫送達。每晚只備八席。",
+      "image_url": "https://raw.githubusercontent.com/tristainsummer/delivery-catalog-assets/1c70a9adcb5b66d213f7e8615d90fd34ef31de24/images/premium/zh-Hant/yu-xu/cover.webp",
+      "icon_url": "https://raw.githubusercontent.com/tristainsummer/delivery-catalog-assets/1c70a9adcb5b66d213f7e8615d90fd34ef31de24/icons/tc/store-zh-Hant-yu-xu.png",
+      "display_badge_text": "當代臺菜 · 每晚八席",
+      "display_priority": 9997,
+      "status": 1,
+      "products": [
+        {
+          "external_id": "product-zh-Hant-yu-xu-666",
+          "experience_type": "default",
+          "menu_visible": true,
+          "menu_section_name": "臺北山海席",
+          "name": "山海序 · Signature",
+          "description": "紅燒半筋半肉、御品小籠湯包、炭火牛小排與古早味嫩豆花，共四品臺味套餐。",
+          "image_url": "https://raw.githubusercontent.com/tristainsummer/delivery-catalog-assets/1c70a9adcb5b66d213f7e8615d90fd34ef31de24/images/premium/zh-Hant/yu-xu/666.webp",
+          "base_price_ice": 666,
+          "option_groups": [],
+          "display_badge_text": "四品臺味",
+          "display_priority": 666,
+          "status": 1
+        },
+        {
+          "external_id": "product-zh-Hant-yu-xu-888",
+          "experience_type": "default",
+          "menu_visible": true,
+          "menu_section_name": "臺北山海席",
+          "name": "私藏席 · Private",
+          "description": "完整山海序，加上旬味山海盛合與松露蕈菇拌麵，共六品主廚選集，附私藏封籤。",
+          "image_url": "https://raw.githubusercontent.com/tristainsummer/delivery-catalog-assets/1c70a9adcb5b66d213f7e8615d90fd34ef31de24/images/premium/zh-Hant/yu-xu/888.webp",
+          "base_price_ice": 888,
+          "option_groups": [],
+          "display_badge_text": "六品私藏",
+          "display_priority": 888,
+          "status": 1
+        }
+      ]
+    }
+  ],
+  "delivery_options": []
+}
