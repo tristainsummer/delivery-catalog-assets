@@ -1,0 +1,167 @@
+{
+  "categories": [
+    {
+      "external_id": "category-ko-chuseok-food",
+      "locale": "ko",
+      "name": "명절 한식",
+      "image_url": "https://raw.githubusercontent.com/tristainsummer/delivery-catalog-assets/main/images/chuseok/ko/commercial-v2/cover.webp",
+      "display_priority": 95,
+      "status": 1
+    }
+  ],
+  "stores": [
+    {
+      "external_id": "store-ko-chuseok-table",
+      "locale": "ko",
+      "name": "추석 한상",
+      "category_external_id": "category-ko-chuseok-food",
+      "description": "송편부터 모둠전, 잡채, 갈비찜까지 추석 음식을 한 상에 담았습니다.",
+      "image_url": "https://raw.githubusercontent.com/tristainsummer/delivery-catalog-assets/main/images/chuseok/ko/commercial-v2/cover.webp",
+      "display_badge_text": "추석 특선",
+      "display_priority": 95,
+      "status": 1,
+      "products": [
+        {
+          "external_id": "store-ko-chuseok-table-yakgwa-two",
+          "experience_type": "default",
+          "menu_visible": true,
+          "menu_section_name": "간식・음료",
+          "name": "약과 2개",
+          "description": "꿀과 참기름으로 반죽해 튀긴 전통 한과 두 개.",
+          "image_url": "https://raw.githubusercontent.com/tristainsummer/delivery-catalog-assets/main/images/chuseok/ko/commercial-v2/yakgwa-two.webp",
+          "base_price_ice": 18,
+          "option_groups": [],
+          "display_badge_text": null,
+          "display_priority": 100,
+          "status": 1
+        },
+        {
+          "external_id": "store-ko-chuseok-table-sikhye",
+          "experience_type": "default",
+          "menu_visible": true,
+          "menu_section_name": "간식・음료",
+          "name": "수제 식혜",
+          "description": "엿기름으로 만든 달콤한 전통 쌀 음료 한 잔.",
+          "image_url": "https://raw.githubusercontent.com/tristainsummer/delivery-catalog-assets/main/images/chuseok/ko/commercial-v2/sikhye.webp",
+          "base_price_ice": 26,
+          "option_groups": [],
+          "display_badge_text": null,
+          "display_priority": 90,
+          "status": 1
+        },
+        {
+          "external_id": "store-ko-chuseok-table-songpyeon-four",
+          "experience_type": "default",
+          "menu_visible": true,
+          "menu_section_name": "송편",
+          "name": "모둠 송편 4개",
+          "description": "깨와 콩, 밤 소를 넣어 찐 반달 모양 송편 네 개.",
+          "image_url": "https://raw.githubusercontent.com/tristainsummer/delivery-catalog-assets/main/images/chuseok/ko/commercial-v2/songpyeon-four.webp",
+          "base_price_ice": 32,
+          "option_groups": [],
+          "display_badge_text": "추석 대표",
+          "display_priority": 80,
+          "status": 1
+        },
+        {
+          "external_id": "store-ko-chuseok-table-songpyeon-eight",
+          "experience_type": "default",
+          "menu_visible": true,
+          "menu_section_name": "송편",
+          "name": "모둠 송편 8개",
+          "description": "흰색과 쑥색 등 여러 빛깔의 송편 여덟 개.",
+          "image_url": "https://raw.githubusercontent.com/tristainsummer/delivery-catalog-assets/main/images/chuseok/ko/commercial-v2/songpyeon-eight.webp",
+          "base_price_ice": 58,
+          "option_groups": [],
+          "display_badge_text": null,
+          "display_priority": 70,
+          "status": 1
+        },
+        {
+          "external_id": "store-ko-chuseok-table-taro-soup",
+          "experience_type": "default",
+          "menu_visible": true,
+          "menu_section_name": "명절 요리",
+          "name": "토란국",
+          "description": "토란과 소고기를 맑게 끓인 추석 국 한 그릇.",
+          "image_url": "https://raw.githubusercontent.com/tristainsummer/delivery-catalog-assets/main/images/chuseok/ko/commercial-v2/taro-soup.webp",
+          "base_price_ice": 56,
+          "option_groups": [],
+          "display_badge_text": null,
+          "display_priority": 60,
+          "status": 1
+        },
+        {
+          "external_id": "store-ko-chuseok-table-japchae",
+          "experience_type": "default",
+          "menu_visible": true,
+          "menu_section_name": "명절 요리",
+          "name": "소고기 잡채",
+          "description": "당면에 소고기, 버섯, 시금치와 채소를 볶아낸 잡채.",
+          "image_url": "https://raw.githubusercontent.com/tristainsummer/delivery-catalog-assets/main/images/chuseok/ko/commercial-v2/japchae.webp",
+          "base_price_ice": 68,
+          "option_groups": [],
+          "display_badge_text": null,
+          "display_priority": 50,
+          "status": 1
+        },
+        {
+          "external_id": "store-ko-chuseok-table-assorted-jeon",
+          "experience_type": "default",
+          "menu_visible": true,
+          "menu_section_name": "명절 요리",
+          "name": "추석 모둠전",
+          "description": "동그랑땡, 애호박전, 꼬치전을 함께 담은 한 접시.",
+          "image_url": "https://raw.githubusercontent.com/tristainsummer/delivery-catalog-assets/main/images/chuseok/ko/commercial-v2/assorted-jeon.webp",
+          "base_price_ice": 88,
+          "option_groups": [],
+          "display_badge_text": null,
+          "display_priority": 40,
+          "status": 1
+        },
+        {
+          "external_id": "store-ko-chuseok-table-bulgogi-meal",
+          "experience_type": "default",
+          "menu_visible": true,
+          "menu_section_name": "한상 차림",
+          "name": "소불고기 한상",
+          "description": "달콤짭짤한 소불고기와 밥, 두 가지 반찬.",
+          "image_url": "https://raw.githubusercontent.com/tristainsummer/delivery-catalog-assets/main/images/chuseok/ko/commercial-v2/bulgogi-meal.webp",
+          "base_price_ice": 104,
+          "option_groups": [],
+          "display_badge_text": null,
+          "display_priority": 30,
+          "status": 1
+        },
+        {
+          "external_id": "store-ko-chuseok-table-galbijjim-meal",
+          "experience_type": "default",
+          "menu_visible": true,
+          "menu_section_name": "한상 차림",
+          "name": "소갈비찜 정식",
+          "description": "간장 양념에 푹 익힌 소갈비찜과 밥, 곁들임 반찬.",
+          "image_url": "https://raw.githubusercontent.com/tristainsummer/delivery-catalog-assets/main/images/chuseok/ko/commercial-v2/galbijjim-meal.webp",
+          "base_price_ice": 148,
+          "option_groups": [],
+          "display_badge_text": null,
+          "display_priority": 20,
+          "status": 1
+        },
+        {
+          "external_id": "store-ko-chuseok-table-chuseok-two-person",
+          "experience_type": "default",
+          "menu_visible": true,
+          "menu_section_name": "한상 차림",
+          "name": "추석 2인 한상",
+          "description": "송편, 모둠전, 잡채, 소갈비찜과 밥 두 공기.",
+          "image_url": "https://raw.githubusercontent.com/tristainsummer/delivery-catalog-assets/main/images/chuseok/ko/commercial-v2/chuseok-two-person.webp",
+          "base_price_ice": 198,
+          "option_groups": [],
+          "display_badge_text": null,
+          "display_priority": 10,
+          "status": 1
+        }
+      ]
+    }
+  ]
+}

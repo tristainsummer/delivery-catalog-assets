@@ -1,0 +1,61 @@
+{
+  "repository": "tristainsummer/delivery-catalog-assets",
+  "branch": "main",
+  "images": [
+    {
+      "local_file": "images/cover.webp",
+      "public_path": "images/chuseok/ko/commercial-v2/cover.webp",
+      "url": "https://raw.githubusercontent.com/tristainsummer/delivery-catalog-assets/main/images/chuseok/ko/commercial-v2/cover.webp"
+    },
+    {
+      "local_file": "images/yakgwa-two.webp",
+      "public_path": "images/chuseok/ko/commercial-v2/yakgwa-two.webp",
+      "url": "https://raw.githubusercontent.com/tristainsummer/delivery-catalog-assets/main/images/chuseok/ko/commercial-v2/yakgwa-two.webp"
+    },
+    {
+      "local_file": "images/sikhye.webp",
+      "public_path": "images/chuseok/ko/commercial-v2/sikhye.webp",
+      "url": "https://raw.githubusercontent.com/tristainsummer/delivery-catalog-assets/main/images/chuseok/ko/commercial-v2/sikhye.webp"
+    },
+    {
+      "local_file": "images/songpyeon-four.webp",
+      "public_path": "images/chuseok/ko/commercial-v2/songpyeon-four.webp",
+      "url": "https://raw.githubusercontent.com/tristainsummer/delivery-catalog-assets/main/images/chuseok/ko/commercial-v2/songpyeon-four.webp"
+    },
+    {
+      "local_file": "images/songpyeon-eight.webp",
+      "public_path": "images/chuseok/ko/commercial-v2/songpyeon-eight.webp",
+      "url": "https://raw.githubusercontent.com/tristainsummer/delivery-catalog-assets/main/images/chuseok/ko/commercial-v2/songpyeon-eight.webp"
+    },
+    {
+      "local_file": "images/taro-soup.webp",
+      "public_path": "images/chuseok/ko/commercial-v2/taro-soup.webp",
+      "url": "https://raw.githubusercontent.com/tristainsummer/delivery-catalog-assets/main/images/chuseok/ko/commercial-v2/taro-soup.webp"
+    },
+    {
+      "local_file": "images/japchae.webp",
+      "public_path": "images/chuseok/ko/commercial-v2/japchae.webp",
+      "url": "https://raw.githubusercontent.com/tristainsummer/delivery-catalog-assets/main/images/chuseok/ko/commercial-v2/japchae.webp"
+    },
+    {
+      "local_file": "images/assorted-jeon.webp",
+      "public_path": "images/chuseok/ko/commercial-v2/assorted-jeon.webp",
+      "url": "https://raw.githubusercontent.com/tristainsummer/delivery-catalog-assets/main/images/chuseok/ko/commercial-v2/assorted-jeon.webp"
+    },
+    {
+      "local_file": "images/bulgogi-meal.webp",
+      "public_path": "images/chuseok/ko/commercial-v2/bulgogi-meal.webp",
+      "url": "https://raw.githubusercontent.com/tristainsummer/delivery-catalog-assets/main/images/chuseok/ko/commercial-v2/bulgogi-meal.webp"
+    },
+    {
+      "local_file": "images/galbijjim-meal.webp",
+      "public_path": "images/chuseok/ko/commercial-v2/galbijjim-meal.webp",
+      "url": "https://raw.githubusercontent.com/tristainsummer/delivery-catalog-assets/main/images/chuseok/ko/commercial-v2/galbijjim-meal.webp"
+    },
+    {
+      "local_file": "images/chuseok-two-person.webp",
+      "public_path": "images/chuseok/ko/commercial-v2/chuseok-two-person.webp",
+      "url": "https://raw.githubusercontent.com/tristainsummer/delivery-catalog-assets/main/images/chuseok/ko/commercial-v2/chuseok-two-person.webp"
+    }
+  ]
+}
